@@ -113,6 +113,7 @@ include(
   ":data:search",
   ":data:licenses",
   ":data:shows",
+  ":data:events",
   ":data:showimages",
   ":data:traktauth",
   ":data:traktusers",
